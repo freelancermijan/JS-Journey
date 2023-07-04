@@ -30,4 +30,4 @@
 
 
 ### git command
-    git add . && git commit -m "Day 1" && git push -u origin main
+    git add . && git commit -m "Day 2" && git push -u origin main
